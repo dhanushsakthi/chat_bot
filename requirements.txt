@@ -1,0 +1,9 @@
+REQUIREMENTS
+
+#Prerequisites
+
+- Python 3.7+
+- PyTorch
+- Transformers library
+- Streamlit (for web UI)
+- CUDA-compatible GPU (optional, for faster performance)
